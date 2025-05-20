@@ -11,7 +11,7 @@ export function About() {
             width: '100%'
           }}
         >
-          <h4 style={{color: '#226A67', fontSize: 20}}>Sobre</h4>
+          <h4 style={{color: '#226A67', fontSize: 20}}>Sobre Nós</h4>
           <p style={{color: '#000', fontSize: 16}}>A Strivon Labs é uma startup de tecnologia sediada na incubadora da UNIFACOL, formada por uma equipe multidisciplinar apaixonada por inovação. Nosso propósito é transformar ideias em soluções digitais escaláveis, que agregam valor real aos negócios. Com foco em eficiência, usabilidade e resultados, desenvolvemos produtos que impulsionam empresas no ambiente digital de forma inteligente e sustentável.</p>
         </div>
     )

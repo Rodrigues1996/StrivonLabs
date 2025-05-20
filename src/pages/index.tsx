@@ -48,8 +48,8 @@ export default function Home() {
         >
           <div style={{maxWidth: 327, paddingRight: 40, display: "flex", alignItems: "flex-start", gap: 20, flexDirection: "column", marginTop: -80}}>
             <h4 style={{color: '#3A6FAE', fontSize: 20}}>SHOPFEE</h4>
-            <p style={{color: '#000', fontSize: 16}}>SHOPFEE é um sistema de gestão de afiliados desenvolvido especialmente para o mercado brasileiro. Ele automatiza campanhas, rastreamento, cálculo de comissões e pagamentos via Pix, com foco em segurança, performance e transparência.</p>
-            
+            <p style={{color: '#000', fontSize: 16}}>SHOPFEE é um sistema de gestão de afiliados desenvolvido especialmente para o mercado brasileiro. Ele automatiza campanhas, rastreamento, cálculo de comissões e pagamentos via Pix, com foco em segurança, performance e transparência. Com foco em segurança, transparência e performance, o ShopFee ajuda anunciantes e afiliados a maximizar ganhos com confiança e eficiência, adaptando-se às necessidades e regulamentações do mercado nacional.</p>
+
           </div>
           <Image src={ImageShopfee} alt="ImageShopfee" />
         </div>
