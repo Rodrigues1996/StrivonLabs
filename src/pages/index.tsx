@@ -49,7 +49,7 @@ export default function Home() {
           <div style={{maxWidth: 327, paddingRight: 40, display: "flex", alignItems: "flex-start", gap: 20, flexDirection: "column", marginTop: -80}}>
             <h4 style={{color: '#3A6FAE', fontSize: 20}}>SHOPFEE</h4>
             <p style={{color: '#000', fontSize: 16}}>SHOPFEE é um sistema de gestão de afiliados desenvolvido especialmente para o mercado brasileiro. Ele automatiza campanhas, rastreamento, cálculo de comissões e pagamentos via Pix, com foco em segurança, performance e transparência.</p>
-            <button style={{background: '#226A67', padding: 12, fontSize: 16, marginTop: 20, border: 'none', outline: 'none', color: '#fff', minWidth: 201, borderRadius: 10}}>SAIBA MAIS</button>
+            
           </div>
           <Image src={ImageShopfee} alt="ImageShopfee" />
         </div>
