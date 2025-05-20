@@ -31,7 +31,7 @@ export default function Home() {
           }}
         >
           <h4 style={{color: '#226A67', fontSize: 20}}>O que Iremos Solucionar</h4>
-          <p style={{color: '#000', fontSize: 16}}>Como uma fábrica de software, a Strivon Labs é especializada em transformar ideias em produtos digitais escaláveis. Nosso foco é resolver desafios reais por meio da tecnologia, com soluções sob medida para cada mercado.</p>
+          <p style={{color: '#000', fontSize: 16,  textAlign: 'center' }}>Como uma fábrica de software, a Strivon Labs é especializada em transformar ideias em produtos digitais escaláveis. Nosso foco é resolver desafios reais por meio da tecnologia, com soluções sob medida para cada mercado. Combinamos agilidade, inovação e expertise técnica para entregar resultados que impulsionam negócios.</p>
         </div>
 
         <div
